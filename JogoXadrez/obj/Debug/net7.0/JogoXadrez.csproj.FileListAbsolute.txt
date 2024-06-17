@@ -1,0 +1,14 @@
+/home/milton/Área de Trabalho/curso nelio alves/JogoXadrez/JogoXadrez/bin/Debug/net7.0/JogoXadrez
+/home/milton/Área de Trabalho/curso nelio alves/JogoXadrez/JogoXadrez/bin/Debug/net7.0/JogoXadrez.deps.json
+/home/milton/Área de Trabalho/curso nelio alves/JogoXadrez/JogoXadrez/bin/Debug/net7.0/JogoXadrez.runtimeconfig.json
+/home/milton/Área de Trabalho/curso nelio alves/JogoXadrez/JogoXadrez/bin/Debug/net7.0/JogoXadrez.dll
+/home/milton/Área de Trabalho/curso nelio alves/JogoXadrez/JogoXadrez/bin/Debug/net7.0/JogoXadrez.pdb
+/home/milton/Área de Trabalho/curso nelio alves/JogoXadrez/JogoXadrez/obj/Debug/net7.0/JogoXadrez.GeneratedMSBuildEditorConfig.editorconfig
+/home/milton/Área de Trabalho/curso nelio alves/JogoXadrez/JogoXadrez/obj/Debug/net7.0/JogoXadrez.AssemblyInfoInputs.cache
+/home/milton/Área de Trabalho/curso nelio alves/JogoXadrez/JogoXadrez/obj/Debug/net7.0/JogoXadrez.AssemblyInfo.cs
+/home/milton/Área de Trabalho/curso nelio alves/JogoXadrez/JogoXadrez/obj/Debug/net7.0/JogoXadrez.csproj.CoreCompileInputs.cache
+/home/milton/Área de Trabalho/curso nelio alves/JogoXadrez/JogoXadrez/obj/Debug/net7.0/JogoXadrez.dll
+/home/milton/Área de Trabalho/curso nelio alves/JogoXadrez/JogoXadrez/obj/Debug/net7.0/refint/JogoXadrez.dll
+/home/milton/Área de Trabalho/curso nelio alves/JogoXadrez/JogoXadrez/obj/Debug/net7.0/JogoXadrez.pdb
+/home/milton/Área de Trabalho/curso nelio alves/JogoXadrez/JogoXadrez/obj/Debug/net7.0/JogoXadrez.genruntimeconfig.cache
+/home/milton/Área de Trabalho/curso nelio alves/JogoXadrez/JogoXadrez/obj/Debug/net7.0/ref/JogoXadrez.dll
