@@ -11,13 +11,13 @@ namespace JogoXadrez
             {
                 for(int j = 0;j < tab.Colunas;j++)
                 {
-                   if (tab.ColocarPeca(i,j)  ==  null)
+                   if (tab.ExibirPeca(i,j)  ==  null)
                    {
                     Console.Write("- ");
                    }
                    else
                    {
-                     Console.Write(tab.ColocarPeca(i,j) + " ");
+                     Console.Write(tab.ExibirPeca(i,j) + " ");
                    }
                 }
                 Console.WriteLine();
