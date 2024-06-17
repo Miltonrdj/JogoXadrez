@@ -1,18 +1,18 @@
 using System;
 using JogoXadrez.Tabuleiros;
 
-namespace JogoXadrez.PecasDeXadrez
+namespace JogoXadrez.Xadrez
 {
-    class Rei : Peca
+    class Torre : Peca
     {
-        public Rei(Cor corPeca, Tabuleiro tab) : base(corPeca, tab)
+        public Torre(Cor corPeca, Tabuleiro tab) : base(corPeca, tab)
         {
             
         }
 
         public override string ToString()
         {
-            return "R";
+            return "T";
         }
     }
 }
